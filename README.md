@@ -10,8 +10,8 @@
 
 <img align="right" alt="GIF" src="https://github.com/Iceteatree/Iceteatree/blob/963cffd0e3a92d991842400f848d75e78a524bf6/Developer%20activity.gif" width="360px"/>
 
-- 🔭 I’m currently enrolled in a Full Stack Web Development Bootcamp.
-- 🌱 I’m currently learning Web Dev Interview Questions and Terminology
+- 🔭 I’m currently working as a junior full stack web developer in South Africa. Currently focusing on the Nextjs FE framework with a Laravel BE.
+- 🌱 Growing and learning are my main priorities right now.
 - 👯 I’m looking to collaborate on nothing at the moment.
 - 🤔 I’m looking for help with beginner tips and tricks.
 - 💬 Ask me about how to design stuff. I'm good at that. 😝
