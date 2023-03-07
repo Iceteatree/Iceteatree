@@ -10,7 +10,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/Iceteatree/Iceteatree/blob/963cffd0e3a92d991842400f848d75e78a524bf6/Developer%20activity.gif" width="360px"/>
 
-- 🔭 I’m currently working as an intermediate full stack web developer in South Africa. Current stack that I work with: React Nextjs FE framework with a PHP Laravel BE with a sprinkling of Typescript and gCloud on the side.
+- 🔭 Current stack that I work with: React Nextjs FE framework with a PHP Laravel BE with a sprinkling of Typescript and gCloud on the side.
 - 🌱 Growing and learning are my main priorities right now.
 - 🦾 Incredibly proficient at Git.
 - 🤔 Open to discussing anything code and tech related.
