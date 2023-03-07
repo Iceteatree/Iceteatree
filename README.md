@@ -14,7 +14,7 @@
 - 🌱 Growing and learning are my main priorities right now.
 - 🦾 Incredibly proficient at Git.
 - 🤔 Open to discussing anything code and tech related.
-- 💬 Have a masters in architecture, go ahead and ask for the story. 😝
-- 📫 How to reach me: Contact me through my github or my linkedin page <a href="https://www.linkedin.com/in/alankow11/">here.</a>
+- 😢 Work has me playing with Bitbucket all day so my contributions here definitely don't reflect all that I do. 
+- 📫 How to reach me: Contact me through my Github or my Linkedin page <a href="https://www.linkedin.com/in/alankow11/">here.</a>
 - ⚡ Fun fact: I'm notoriously easy to get along with. 😊
 
