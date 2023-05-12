@@ -17,4 +17,4 @@
 - 😢 Work has me playing with Bitbucket all day so my contributions here definitely don't reflect all that I do. 
 - 📫 How to reach me: Contact me through my Github or my Linkedin page <a href="https://www.linkedin.com/in/alankow/">here.</a>
 - ⚡ Fun fact: I'm notoriously easy to get along with. 😊
-- Pluralsight <a href="(https://app.pluralsight.com/profile/iceteatree?_gl=1*hyksh0*_ga*MTQwNzc5MDMyNy4xNjc4MjY2Njg3*_ga_525M96C6Y1*MTY4Mzg3OTYyNC4zLjEuMTY4Mzg3OTY1MS4wLjAuMA..)">stats</a>
+- Pluralsight <a href="https://app.pluralsight.com/profile/iceteatree?_gl=1*hyksh0*_ga*MTQwNzc5MDMyNy4xNjc4MjY2Njg3*_ga_525M96C6Y1*MTY4Mzg3OTYyNC4zLjEuMTY4Mzg3OTY1MS4wLjAuMA..">stats</a>
