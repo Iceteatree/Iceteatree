@@ -12,8 +12,7 @@
 
 - 🔭 Current stack that I work with: React & Typescript Nextjs FE framework with a PHP Laravel BE and a sprinkling of gCloud goodness.
 - 🌱 Growing and learning are my main priorities right now.
-- 🦾 Incredibly proficient at Git.
+- 🦾 Incredibly proficient at Git stuff.
 - 🤔 Open to discussing anything code and tech related.
 - 📫 How to reach me: Contact me through my Github or my Linkedin page <a href="https://www.linkedin.com/in/alankow/">here.</a>
 - ⚡ Fun fact: I'm notoriously easy to get along with. 😊
-- ✍🏼 Pluralsight <a href="https://app.pluralsight.com/profile/iceteatree?_gl=1*hyksh0*_ga*MTQwNzc5MDMyNy4xNjc4MjY2Njg3*_ga_525M96C6Y1*MTY4Mzg3OTYyNC4zLjEuMTY4Mzg3OTY1MS4wLjAuMA..">stats</a>
